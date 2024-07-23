@@ -1,0 +1,60 @@
+.title {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:50px ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sub-title{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.formlaire-ajout {
+    width:50%;
+    margin-left: 25%;
+}
+
+.ajout {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #333333;
+    margin-left: 100px;
+}
+
+.ajout:hover {
+    background-color: #e0e0e0;
+}
+
+.form-list {
+    background: none;
+    border: none;
+    padding: 0;
+    color: inherit;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.check-cart {
+    margin-right: 100px;
+    display: inline;
+}
+
+.admin {
+    color: blueviolet;
+}
+
+.navbar-nav {
+    margin-left: 100px;
+}
+
+.welcome {
+    text-align: center;
+}
