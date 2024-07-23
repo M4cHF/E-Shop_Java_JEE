@@ -34,13 +34,14 @@
 %>
 <%------------------ END NAV BAR -----------------------%>
 
-<%--<%! List<Produit> listProduitsCom; %>--%>
+<%--<%! List<Produit> listProduitsParCommande; %>--%>
 <%--<%--%>
-<%--    listProduitsCom = (ArrayList<Produit>) request.getAttribute("listProduitsCom");--%>
+<%--    listProduitsParCommande = (ArrayList<Produit>) request.getAttribute("listProduitsParCommande");--%>
 
-<%--    if (listProduitsCom != null && !listProduitsCom.isEmpty()) {--%>
-<%--        for (Produit produit : listProduitsCom) {--%>
+<%--    if (listProduitsParCommande != null && !listProduitsParCommande.isEmpty()) {--%>
+<%--        for (Produit produit : listProduitsParCommande) {--%>
 <%--%>--%>
+
 
 <div class="container px-3 my-5 clearfix">
     <!-- Shopping cart table -->
